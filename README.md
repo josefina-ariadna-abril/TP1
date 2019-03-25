@@ -1,6 +1,6 @@
-# TP1: JS for CATS :smiley_cat: , Hit <=> HitHub , MarkDown
-## 1.intros::mag:
-### leer::eyes:
+# TP1: JS for CATS :smiley_cat: , Hit :left_right_arrow: HitHub , MarkDown
+## 1.intros: :mag:
+### leer: :eyes:
 * https://es.wikipedia.org/wiki/Git
 * https://guides.github.com/introduction/flow/
 * http://apuntaweb.blogspot.com/2014/12/que-es-git-diferencias-entre-git-y.html
@@ -8,7 +8,7 @@
 * https://guides.github.com/activities/hello-world/
 
 ## 2.Markdown::page_facing_up:
-### leer::eyes:
+### leer: :eyes:
 * https://es.wikipedia.org/wiki/Markdown
 * https://markdown.es/
 * https://www.webfx.com/tools/emoji-cheat-sheet/
