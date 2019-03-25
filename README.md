@@ -20,4 +20,4 @@
 ## Primer repo propio para entregas::mailbox_with_no_mail:
 * https://classroom.github.com/g/i2YnEJtq
 
-hace click en el link (cada alumno) para aceptar el primer tp, la primera vez van a tener que crear el grupo (llamarlo grupo N°##), segun el numero de grupo de proyecto, luego cuando entren los 3 alumnos restantes se tienen que unir al mismo grupo. al finalizar se habra creado un repositorio para el grupo, con una copia de este repositorio y los 4 alumnos seran colaboradores del mismo
+hace click en el link (cada alumno) para aceptar el primer tp, la primera vez van a tener que crear el grupo (llamarlo grupo N°##), segun el numero de grupo de proyecto, luego cuando entren los 3 alumnos restantes se tienen que unir al mismo grupo. al finalizar se habra creado un repositorio para el grupo, con una copia de [este repositorio](https://github.com/fegerva2/TP1)  y los 4 alumnos seran colaboradores del mismo
