@@ -2,6 +2,7 @@
 ## 1.intros: :mag:
 ### leer: :eyes:
 * https://es.wikipedia.org/wiki/Git
+* https://es.wikipedia.org/wiki/GitHub
 * https://guides.github.com/introduction/flow/
 * http://apuntaweb.blogspot.com/2014/12/que-es-git-diferencias-entre-git-y.html
 ### Manos a la Obra: :construction_worker:
