@@ -3,8 +3,10 @@
 ### leer: :eyes:
 * https://es.wikipedia.org/wiki/Git
 * https://es.wikipedia.org/wiki/GitHub
-* https://guides.github.com/introduction/flow/
 * http://apuntaweb.blogspot.com/2014/12/que-es-git-diferencias-entre-git-y.html
+#### Lectura Opcional:
+* https://guides.github.com/introduction/flow/
+
 ### Manos a la Obra: :construction_worker:
 * https://guides.github.com/activities/hello-world/
 
