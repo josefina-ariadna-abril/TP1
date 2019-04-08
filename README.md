@@ -4,7 +4,7 @@
 ## 1.intros: :mag:
 ### leer: :eyes:
 
-![meme](ojotranslate.jpg)
+![meme](ojotranslate.jpeg)
 
 * https://es.wikipedia.org/wiki/Git
 * https://es.wikipedia.org/wiki/GitHub
