@@ -1,8 +1,11 @@
-![pio Logo](descarga.jpg)
+![pio Logo](logopio.jpg)
 
 # TP1: JS for CATS :smiley_cat: , Git :left_right_arrow: GitHub , MarkDown
 ## 1.intros: :mag:
 ### leer: :eyes:
+
+![meme](ojotranslate.jpg)
+
 * https://es.wikipedia.org/wiki/Git
 * https://es.wikipedia.org/wiki/GitHub
 * http://apuntaweb.blogspot.com/2014/12/que-es-git-diferencias-entre-git-y.html
