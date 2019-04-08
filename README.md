@@ -17,8 +17,6 @@
 * https://www.webfx.com/tools/emoji-cheat-sheet/
 ### Manos a la Obra: :construction_worker:
 * https://guides.github.com/features/mastering-markdown/
-
-### Opcional:(ejercitacion extra)
 * https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown
 
 ## Primer repo propio para entregas::mailbox_with_no_mail:
