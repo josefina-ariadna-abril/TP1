@@ -31,4 +31,4 @@
 hace click en el link (cada alumno) para aceptar el primer tp, la primera vez van a tener que crear el grupo (llamarlo grupo N°##), segun el numero de grupo de proyecto, luego cuando entren los 3 alumnos restantes se tienen que unir al mismo grupo. al finalizar se habra creado un repositorio para el grupo, con una copia de [este repositorio](https://github.com/fegerva2/TP1)  y los 4 alumnos seran colaboradores del mismo
 * en el nuevo repo:
 
-crear un archivo nuevo (arriva a la derecha dice create new file) que se llame : [tunombre]-GuiaJSParaGatos, y luego usando Markdown escribi las preguntas (y las respuestas) del archivo preguntas guia js para gatos.pdf
+crear un archivo nuevo (arriva a la derecha dice create new file) que se llame : [tunombre]-GuiaJSParaGatos.md, y luego usando Markdown escribi las preguntas (y las respuestas) del archivo preguntas guia js para gatos.pdf
